@@ -16,8 +16,7 @@
   ],
   "pages": {
     "main": "file:///content/cv.md",
-    "projects": "file:///content/projects.md",
-    "leetcode": "file:///content/leetcode-solutions.mdx"
+    "projects": "file:///content/projects.md"
   },
   "socials": [
     {
