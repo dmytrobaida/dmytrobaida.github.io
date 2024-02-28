@@ -1,13 +1,13 @@
 {
   "name": "cv",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
   "license": "MIT",
   "scripts": {
     "dev": "portfolio-md dev",
     "build": "portfolio-md build"
   },
   "dependencies": {
-    "@portfolio.md/builder": "^0.0.15"
+    "@portfolio.md/builder": "0.0.16"
   }
 }

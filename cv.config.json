@@ -1,8 +1,13 @@
 {
   "template": "default",
   "meta": {
-    "title": "Example CV",
-    "description": "Example CV description"
+    "title": "Dmytro Baida's Portfloio",
+    "description": "Full-Stack Engineer"
+  },
+  "home": {
+    "title": "My CV",
+    "url": "/",
+    "logoName": "logo"
   },
   "menu": [
     {
@@ -17,11 +22,20 @@
   "socials": [
     {
       "url": "https://github.com/dmytrobaida"
+    },
+    {
+      "url": "https://www.linkedin.com/in/dmytrobaida"
+    },
+    {
+      "url": "https://leetcode.com/dmytrobaida"
     }
   ],
   "credentials": {
-    "title": "Example CV",
+    "title": "Dmytro Baida",
     "year": 2024,
     "url": "/"
+  },
+  "images": {
+    "logo": "file:///content/logo.jpeg"
   }
 }
