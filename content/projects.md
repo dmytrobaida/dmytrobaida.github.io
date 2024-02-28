@@ -111,3 +111,11 @@ Simple dice game based on Farkle rules. This project inspired by Kingdome Come Z
 
 * [Website with game](https://dmytrobaida.github.io/Tezos-Farkle)
 * [GitHub repository](https://github.com/dmytrobaida/Tezos-Farkle)
+
+<br/>
+
+# Stats
+
+| GitHub  | LeetCode |
+| ------------- | ------------- |
+| ![Dmytro Baida's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrobaida&show_icons=true&theme=transparent)  | ![Dmytro Baida's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dmytrobaida)  |
