@@ -8,6 +8,6 @@
     "build": "portfolio-md build"
   },
   "dependencies": {
-    "@portfolio.md/builder": "^0.0.13"
+    "@portfolio.md/builder": "^0.0.15"
   }
 }
