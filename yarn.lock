@@ -1642,10 +1642,10 @@
   dependencies:
     esquery "^1.4.0"
 
-"@portfolio.md/builder@^0.0.11":
-  version "0.0.11"
-  resolved "https://registry.yarnpkg.com/@portfolio.md/builder/-/builder-0.0.11.tgz#840155c02574f591fa4c8e90cb0dcb9e134fe8d7"
-  integrity sha512-b0/lk1SFy7cAslXQwTbBzMw4rrfZjpENHe7IMxEzpXaQEXsYgY5IDNNeeaQKhQlDW4o/limRFRok7Tq9Iy4tjg==
+"@portfolio.md/builder@^0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@portfolio.md/builder/-/builder-0.0.13.tgz#d744c4e4a67b85ded0445db478443c0fba66b10f"
+  integrity sha512-mTopUoyZ7Fu45TICJtpoRRB1LX4shyZjeQ6qB5ubVwoffewiWnh/OVNRYYYv9m9aEoq7bKz6wM2n43nz6NZjYw==
   dependencies:
     "@mdx-js/loader" "^3.0.1"
     "@mdx-js/react" "^3.0.1"

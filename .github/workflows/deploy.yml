@@ -31,7 +31,7 @@ jobs:
               uses: actions/upload-pages-artifact@v3
               with:
                   name: github-pages
-                  path: node_modules/@portfolio.md/builder/dist/engine/out
+                  path: dist
 
     deploy:
         needs: build
