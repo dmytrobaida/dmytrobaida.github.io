@@ -18,8 +18,7 @@
       "file": "file:///content/projects.md",
       "genPdf": true,
       "menu": {
-        "title": "Projects",
-        "url": "/pages/projects"
+        "title": "Projects"
       }
     }
   },
@@ -41,5 +40,9 @@
   },
   "images": {
     "logo": "file:///content/logo.jpeg"
+  },
+  "cv": {
+    "name": "main",
+    "title": "Download as PDF"
   }
 }
