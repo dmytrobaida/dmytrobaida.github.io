@@ -336,9 +336,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@portfolio.md/builder@npm:0.0.34":
-  version: 0.0.34
-  resolution: "@portfolio.md/builder@npm:0.0.34"
+"@portfolio.md/builder@npm:0.0.35":
+  version: 0.0.35
+  resolution: "@portfolio.md/builder@npm:0.0.35"
   dependencies:
     "@next/third-parties": "npm:14.1.0"
     "@portfolio.md/components": "npm:0.0.39"
@@ -354,7 +354,7 @@ __metadata:
     tslib: "npm:^2.3.0"
   bin:
     portfolio-md: bin/portfolio.md.js
-  checksum: 10c0/5739e0ea51bf8f48c8048386def08f19043c2f820ae7117b18bad10d61ce7da59880153c31d72b1ba2bdb8d77db956f6401f86aee6a7f00e0988bcf3389785c6
+  checksum: 10c0/9175f02a3d98cb07c8e35757298b64ff8dd12f302ef90ab12e81c5e0afe19187d7ffd138205fcc8b125f72fe917dcf5bf2a503ef325f766cbf45ed437d615702
   languageName: node
   linkType: hard
 
@@ -881,7 +881,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cv@workspace:."
   dependencies:
-    "@portfolio.md/builder": "npm:0.0.34"
+    "@portfolio.md/builder": "npm:0.0.35"
   languageName: unknown
   linkType: soft
 
