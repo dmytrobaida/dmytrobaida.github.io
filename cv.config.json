@@ -40,5 +40,8 @@
   },
   "images": {
     "logo": "file:///content/logo.jpeg"
+  },
+  "analytics": {
+    "gTag": "G-Z76X7VG7QN"
   }
 }
