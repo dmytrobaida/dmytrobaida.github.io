@@ -11,7 +11,7 @@ VS Code extension which helps to generate AI commit messages using ChatGPT
 
 ### Used technologies
 
-- React, Node.js
+- React + TypeScript, Node.js
 - Visual Studio Code Extension API
 
 ## [Recursion Viewer](https://github.com/dmytrobaida/recursion-viewer)
@@ -26,7 +26,7 @@ Website and VS Code extension for visualizing recursive function calls
 
 ### Used technologies
 
-- React, Node.js
+- React + TypeScript, Node.js, Vite
 - Visual Studio Code Extension API
 - NX for monorepo management
 
@@ -39,7 +39,7 @@ Node.js library for easy creation CV and portfolio from MD files with minimum co
 
 ### Used technologies
 
-- React, Node.js
+- React + TypeScript, Node.js
 - NX for monorepo management
 - Next.js for static page generation
 - StoryBook
@@ -50,42 +50,40 @@ Node.js library for easy creation CV and portfolio from MD files with minimum co
 
 ## CRM for Ukrtelecom
 
-CRM (Customer relationship management) system for biggest Ukrainian telecommunication provider - Ukrtelecom
+Was part of a team developing CRM (Customer relationship management) system for biggest Ukrainian telecommunication provider - Ukrtelecom
 
-### Used technologies
+### Technology stack
 
-- .NET Framework
+- .NET Framework, Pure JavaScript
 - Microsoft SQL Server
 
 ## Exact
 
-Was developing software for Exact company. This is one of biggest accounting company in Netherlands 
+Was part of a team developing core systems and plugins for Exact Online. This is web application for small and medium size businesses which helps with accounting in the Netherlands
 
-### Used technologies
+### Technology stack
 
-- .NET Framework
+- .NET Framework, Pure JavaScript
 - Microsoft SQL Server
 
 ## CarNext
 
-Was working on project for CarNext company. This is child company of LeasePlan which sells repaired cars after leasing
+Was part of a team developing website and api's for CarNext. This is website for selling refurbished cars in the Netherlands and Europe 
 
-### Used technologies
+### Technology stack
 
-- ASP.NET Core
+- ASP.NET Core, React + TypeScript
 - Microsoft SQL Server
 
 ## Finturi
 
-Primary job on this project was developing mobile application using React Native Framework and Javascript. Also I had some task on improving and developing new features on backend side using .Net Core framework an C#. Have some experience with Azure Cloud and CI/CD
+Was part of a team developing website, api and mobile application for Finturi. This is startup based in the Netherlands that aims to solve cash flow problems of businesses
 
-### Used technologies
+### Technology stack
 
-- React Native
+- React Native + TypeScript
 - ASP.NET Core
 - Microsoft SQL Server
-
-## ...
 
 <br/>
 

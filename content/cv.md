@@ -1,65 +1,43 @@
-# Isaac Newton
+# Dmytro Baida
 
-Physicist, Mathematician, Cambridge professor.
+Full-Stack Engineer and tech enthusiast
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`Feb 2022 - Present`
+**Metasvit** - Kyiv, The Netherlands
 
-### Specialized in
+- Involved in different kind of projects in crypto. Also working with cloud infrastucture and crypto wallets
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Feb 2019 - Feb 2022`
+**Finturi** - Kyiv, The Netherlands
 
-### Research interests
+- Was part of a team developing website, api and mobile application for Finturi. This is startup based in the Netherlands that aims to solve cash flow problems of businesses
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Aug 2018 - Oct 2019`
+**Levi9 Ukraine** - Kyiv, The Netherlands
+
+- Was part of a team developing core systems and plugins for Exact Online. This is web application for small and medium size businesses which helps with accounting in the Netherlands
+- Was part of a team developing website and api's for CarNext. This is website for selling refurbished cars in the Netherlands and Europe 
+
+`Sep 2017 - Aug 2018`
+**TSI** - Kyiv
+
+- Was part of a team developing CRM (Customer relationship management) system for biggest Ukrainian telecommunication provider - Ukrtelecom
 
 ## Education
 
-`1654-1660`
-**The King's School, Grantham.**
+`2013 - 2017`
+**National Technical University of Ukraine 'Kyiv Polytechnic Institute**
+- Bachelor's degree in Computer Science
 
-`June 1661 - now`
-**Trinity College, Cambridge**
+`2017 - 2018`
+**National Technical University of Ukraine 'Kyiv Polytechnic Institute**
+- Master's degree in Computer Science
 
-- Sizar
+## Contacts
 
-`1667 - death`
-**Trinity College, Cambridge**
+* Email: dmytrobaida.contact@gmail.com
+* Portfolio: https://dmytrobaida.github.io
+* Linkedin: https://www.linkedin.com/in/dmytrobaida
 
-- Fellow
-
-## Awards
-
-`2012`
-President, _Royal Society_, London, UK
-
-Associate, _French Academy of Science_, Paris, France
-
-## Publications
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-## Occupation
-
-`1600`
-**Royal Mint**, London
-
-- Warden
-- Minted coins
-
-`1600`
-**Lucasian professor of Mathematics**, Cambridge University
