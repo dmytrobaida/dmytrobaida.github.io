@@ -1,10 +1,10 @@
 # Personal Projects
 
-## [GPTCommitVSCode](https://github.com/dmytrobaida/GPTCommitVSCode)
+## [GPT Commit](https://marketplace.visualstudio.com/items?itemName=DmytroBaida.gpt-commit)
 
 VS Code extension which helps to generate AI commit messages using ChatGPT
 
-![GPTCommitVSCode](https://github.com/dmytrobaida/GPTCommitVSCode/raw/main/assets/images/example.gif)
+![GPT Commit](https://github.com/dmytrobaida/GPTCommitVSCode/raw/main/assets/images/example.gif)
 
 * [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=DmytroBaida.gpt-commit)
 * [GitHub repository](https://github.com/dmytrobaida/GPTCommitVSCode)
@@ -14,7 +14,7 @@ VS Code extension which helps to generate AI commit messages using ChatGPT
 - React + TypeScript, Node.js
 - Visual Studio Code Extension API
 
-## [Recursion Viewer](https://github.com/dmytrobaida/recursion-viewer)
+## [Recursion Viewer](https://dmytrobaida.github.io/recursion-viewer)
 
 Website and VS Code extension for visualizing recursive function calls
 
