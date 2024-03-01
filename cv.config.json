@@ -5,18 +5,18 @@
     "description": "Full-Stack Engineer"
   },
   "home": {
-    "title": "My CV",
+    "title": "Dmytro Baida",
     "url": "/",
     "logoName": "logo"
   },
   "pages": {
-    "main": {
+    "cv": {
       "file": "file:///content/cv.md",
-      "genPdf": true
+      "genPdf": true,
+      "isMain": true
     },
     "projects": {
       "file": "file:///content/projects.md",
-      "genPdf": true,
       "menu": {
         "title": "Projects"
       }
@@ -40,9 +40,5 @@
   },
   "images": {
     "logo": "file:///content/logo.jpeg"
-  },
-  "cv": {
-    "name": "main",
-    "title": "Download as PDF"
   }
 }

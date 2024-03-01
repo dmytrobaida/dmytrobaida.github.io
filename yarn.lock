@@ -324,11 +324,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@portfolio.md/builder@npm:0.0.31":
-  version: 0.0.31
-  resolution: "@portfolio.md/builder@npm:0.0.31"
+"@portfolio.md/builder@npm:0.0.33":
+  version: 0.0.33
+  resolution: "@portfolio.md/builder@npm:0.0.33"
   dependencies:
-    "@portfolio.md/components": "npm:0.0.33"
+    "@portfolio.md/components": "npm:0.0.39"
     datauri: "npm:^4.1.0"
     favicons: "npm:^7.1.5"
     next: "npm:14.1.0"
@@ -341,14 +341,14 @@ __metadata:
     tslib: "npm:^2.3.0"
   bin:
     portfolio-md: bin/portfolio.md.js
-  checksum: 10c0/2eb9be522934a28640a811d903e546fae58982ed8a4df17138af16f5bb17f127007fcf2170747a274f3b2de0e1d597c98050f7b567afc12a89bfa79b9fe467c0
+  checksum: 10c0/2e11dc0f47ac6d49bfa8f2c511066561031ad9a3267b2d516512a6f823b705e1ba7e36654a657cc5608d01a4775d05ea20ca3e84fa0582127c2ab2aac4b83498
   languageName: node
   linkType: hard
 
-"@portfolio.md/components@npm:0.0.33":
-  version: 0.0.33
-  resolution: "@portfolio.md/components@npm:0.0.33"
-  checksum: 10c0/41cc3e3eef4c2253ba2a3ff00b89b2b0b529ee755e589d3ec55c5ba15d5574707f99a30213a5bfe23d77b1f9019ccae0332e11d95b36d9a37e5b27665d1cb86d
+"@portfolio.md/components@npm:0.0.39":
+  version: 0.0.39
+  resolution: "@portfolio.md/components@npm:0.0.39"
+  checksum: 10c0/b64271eb88bb8a91c6c3923aad05a958fac73810c254626bb207d0a6dd81173c19de71ede2038203b21f35ef3e8b0f47467f97f7aa67fe7ca61a14baced64b05
   languageName: node
   linkType: hard
 
@@ -868,7 +868,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cv@workspace:."
   dependencies:
-    "@portfolio.md/builder": "npm:0.0.31"
+    "@portfolio.md/builder": "npm:0.0.33"
   languageName: unknown
   linkType: soft
 
