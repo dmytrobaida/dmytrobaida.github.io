@@ -37,7 +37,7 @@ Full-Stack Engineer and tech enthusiast from Ukraine
 
 ## Contacts
 
-* Email: dmytrobaida.contact@gmail.com
+* Email: dmytrobaida@outlook.com
 * Portfolio: https://dmytrobaida.github.io
 * Linkedin: https://www.linkedin.com/in/dmytrobaida
 
