@@ -2,7 +2,10 @@
   "template": "default",
   "meta": {
     "title": "Dmytro Baida's Portfloio",
-    "description": "Full-Stack Engineer"
+    "description": "Full-Stack Engineer",
+    "verification": {
+      "google": "gVx2WIPNUmdGNPc-btJadTU-kkNt2Q2xnuFU5P9myZY"
+    }
   },
   "home": {
     "title": "Dmytro Baida",
