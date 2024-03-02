@@ -324,10 +324,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@portfolio.md/builder@npm:0.0.38":
-  version: 0.0.38
-  resolution: "@portfolio.md/builder@npm:0.0.38"
+"@next/third-parties@npm:^14.1.1":
+  version: 14.1.1
+  resolution: "@next/third-parties@npm:14.1.1"
   dependencies:
+    third-party-capital: "npm:1.0.20"
+  peerDependencies:
+    next: ^13.0.0 || ^14.0.0
+    react: ^18.2.0
+  checksum: 10c0/ab606f0151481195d765b98421e246c8463ca325c850895e197228196e17498945a445a2b5fce712b9209c6944b979d1351255f92b620849588ef9a7f3ee4041
+  languageName: node
+  linkType: hard
+
+"@portfolio.md/builder@npm:0.0.40":
+  version: 0.0.40
+  resolution: "@portfolio.md/builder@npm:0.0.40"
+  dependencies:
+    "@next/third-parties": "npm:^14.1.1"
     "@portfolio.md/components": "npm:0.0.39"
     datauri: "npm:^4.1.0"
     favicons: "npm:^7.1.5"
@@ -341,7 +354,7 @@ __metadata:
     tslib: "npm:^2.3.0"
   bin:
     portfolio-md: bin/portfolio.md.js
-  checksum: 10c0/fbd6ae03bc2318e2d038700c0a04d961d9c7eed426ab5e343c8eedbf523b738f74925623cc8951310e67750cbfc24e1253973367d54b808af3fd1a9182485ef8
+  checksum: 10c0/ea84e55e896796197d099cf98508ba0027e8bd6d8ac9f6b02be647be109a8c6f0dc072c2c1790d2c027f3862ec8d05e15d2213dd08b69b84964c730d3e67a283
   languageName: node
   linkType: hard
 
@@ -868,7 +881,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cv@workspace:."
   dependencies:
-    "@portfolio.md/builder": "npm:0.0.38"
+    "@portfolio.md/builder": "npm:0.0.40"
   languageName: unknown
   linkType: soft
 
@@ -2862,6 +2875,13 @@ __metadata:
     fast-fifo: "npm:^1.2.0"
     streamx: "npm:^2.15.0"
   checksum: 10c0/a09199d21f8714bd729993ac49b6c8efcb808b544b89f23378ad6ffff6d1cb540878614ba9d4cfec11a64ef39e1a6f009a5398371491eb1fda606ffc7f70f718
+  languageName: node
+  linkType: hard
+
+"third-party-capital@npm:1.0.20":
+  version: 1.0.20
+  resolution: "third-party-capital@npm:1.0.20"
+  checksum: 10c0/7f45ff156ec9d7e2957a5b39061be22b780ffbd2d93c127252d908e2bff6cdd09f827a95909d457c8096e036f155006a38e355a06ee11cb6d63c7f4b150bbfb0
   languageName: node
   linkType: hard
 
