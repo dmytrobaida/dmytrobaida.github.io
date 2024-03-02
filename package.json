@@ -8,7 +8,7 @@
     "build": "portfolio-md build"
   },
   "dependencies": {
-    "@portfolio.md/builder": "0.0.37"
+    "@portfolio.md/builder": "0.0.38"
   },
   "packageManager": "yarn@4.1.0"
 }
