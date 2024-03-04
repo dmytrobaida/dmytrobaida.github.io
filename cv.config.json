@@ -16,13 +16,13 @@
     "cv": {
       "file": "file:///content/cv.md",
       "genPdf": true,
-      "isMain": true
+      "menu": {
+        "title": "Resume"
+      }
     },
     "projects": {
       "file": "file:///content/projects.md",
-      "menu": {
-        "title": "Projects"
-      }
+      "isMain": true
     }
   },
   "socials": [
