@@ -48,36 +48,9 @@ Node.js library for easy creation CV and portfolio from MD files with minimum co
 
 # Projects I worked on
 
-## CRM for Ukrtelecom
-
-Was part of a team developing CRM (Customer relationship management) system for biggest Ukrainian telecommunication provider - Ukrtelecom
-
-### Technology stack
-
-- .NET Framework, Pure JavaScript
-- Microsoft SQL Server
-
-## Exact
-
-Was part of a team developing core systems and plugins for Exact Online. This is web application for small and medium size businesses which helps with accounting in the Netherlands
-
-### Technology stack
-
-- .NET Framework, Pure JavaScript
-- Microsoft SQL Server
-
-## CarNext
-
-Was part of a team developing website and api's for CarNext. This is website for selling refurbished cars in the Netherlands and Europe 
-
-### Technology stack
-
-- ASP.NET Core, React + TypeScript
-- Microsoft SQL Server
-
 ## Finturi
 
-Was part of a team developing website, api and mobile application for Finturi. This is startup based in the Netherlands that aims to solve cash flow problems of businesses
+Website and mobile application for businesses in the Netherlands which need financing and credits to grow their business
 
 ### Technology stack
 
@@ -85,15 +58,61 @@ Was part of a team developing website, api and mobile application for Finturi. T
 - ASP.NET Core
 - Microsoft SQL Server
 
+## Medipix
+
+SaaS service for medical professionals
+
+### Technology stack
+
+- React + TypeScript
+- Node.js
+
+## ArDrive
+
+Application for storing files permanently
+
+### Technology stack
+
+- React + TypeScript
+- Electron
+
+## CarNext
+
+Website for selling refurbished cars in the Netherlands and Europe 
+
+### Technology stack
+
+- ASP.NET Core, React + TypeScript
+- Microsoft SQL Server
+
+## Exact
+
+Accounting system for small and medium businesses in the Netherlands
+
+### Technology stack
+
+- .NET Framework, Pure JavaScript
+- Microsoft SQL Server
+
+## Ukrtelecom CRM
+
+CRM (customer relationship management) system for biggest Ukrainian telecom provider
+
+### Technology stack
+
+- .NET Framework, Pure JavaScript
+- Microsoft SQL Server
+
 <br/>
 
 # Hackatons
 
-## BlockDudes - Odyssey Hackathon 2019
+## Tezos Farkle Game - GitCoin Hackaton
 
-A marketplace that will drive financial inclusion and make peer-to-peer exchange of a commodity or a service on the blockchain possible by lowering the entry barriers
+Simple dice game based on Farkle rules. This project inspired by Kingdome Come Zonk minigame. Main purpose is to recreate game rules using Tezos network as a base for storing game state and logic and connect players between each other
 
-* [GitHub repository](https://github.com/odysseyhack/blockdudes)
+* [Website with game](https://dmytrobaida.github.io/Tezos-Farkle)
+* [GitHub repository](https://github.com/dmytrobaida/Tezos-Farkle)
 
 ## Poker Joker Dao - Cosmos HackAtom VI
 #### 🥈 Second place in Challenge Secret Networks
@@ -103,12 +122,11 @@ Poker Joker DAO is a gaming DAO designed to manage games that provide ownership 
 * [DevPost article](https://devpost.com/software/yatzee)
 * [GitHub repository](https://github.com/iorveth/scrt-poker-joker)
 
-## Tezos Farkle Game - GitCoin Hackaton
+## BlockDudes - Odyssey Hackathon 2019
 
-Simple dice game based on Farkle rules. This project inspired by Kingdome Come Zonk minigame. Main purpose is to recreate game rules using Tezos network as a base for storing game state and logic and connect players between each other
+A marketplace that will drive financial inclusion and make peer-to-peer exchange of a commodity or a service on the blockchain possible by lowering the entry barriers
 
-* [Website with game](https://dmytrobaida.github.io/Tezos-Farkle)
-* [GitHub repository](https://github.com/dmytrobaida/Tezos-Farkle)
+* [GitHub repository](https://github.com/odysseyhack/blockdudes)
 
 <br/>
 

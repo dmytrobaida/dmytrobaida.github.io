@@ -63,9 +63,6 @@ National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine
 
 ### Awards, Accolades and Certifications
 
+* 2021 | [Second place in Challenge Secret Networks](https://devpost.com/software/yatzee) | Cosmos HackAtom VI
 * 2019 | [MCSD: App Builder](https://www.credly.com/badges/f5539812-1f75-4b3d-bb16-c7f483f9b6b6/linked_in_profile)
 * 2019 | [MCSA: Web Applications](https://www.credly.com/badges/e3cb23d1-e248-4aa2-a4c7-a4ad6ecd07b5/linked_in_profile)
-* 2021 | [Second place in Challenge Secret Networks](https://devpost.com/software/yatzee) | Cosmos HackAtom VI
-
-
-
