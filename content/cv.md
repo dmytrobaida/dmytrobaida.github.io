@@ -44,7 +44,7 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 **Levi9/Exact**, The Netherlands, Aug 2018 - Jan 2019  
 * Implemented and covered with tests subsystem for creating reports for accountants
 
-**TSI/Ukrtelecom** - Ukraine, Sep 2017 - Aug 2018  
+**TSI/Ukrtelecom**, Ukraine, Sep 2017 - Aug 2018  
 * Created utility program for emulating phone calls which simplified development of new features and testing for testing engineers
 
 ### Education
