@@ -336,14 +336,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@portfolio.md/builder@npm:0.0.45":
-  version: 0.0.45
-  resolution: "@portfolio.md/builder@npm:0.0.45"
+"@portfolio.md/builder@npm:0.0.46":
+  version: 0.0.46
+  resolution: "@portfolio.md/builder@npm:0.0.46"
   dependencies:
     "@next/third-parties": "npm:^14.1.1"
     "@portfolio.md/components": "npm:0.0.41"
     datauri: "npm:^4.1.0"
     favicons: "npm:^7.1.5"
+    image-size: "npm:^1.1.1"
     next: "npm:14.1.0"
     next-mdx-remote: "npm:^4.4.1"
     puppeteer: "npm:^22.3.0"
@@ -355,7 +356,7 @@ __metadata:
     tslib: "npm:^2.3.0"
   bin:
     portfolio-md: bin/portfolio.md.js
-  checksum: 10c0/973f82b685c53fd353fc8cd913e9170364512234d3a6f47b55a658fbeac5cd4024317cd24fae92144d7c07882fe292804f674743acf5950fedb10cedbc9a860a
+  checksum: 10c0/dbd64cc6631aa0a4cb83c801078140c85be623a262a2a4a9d41cfb34de778c5375514dc82422e24888ba4a7000ef448ba60c1d0cd6d94a7cb2c7b3ceef183b12
   languageName: node
   linkType: hard
 
@@ -1115,7 +1116,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cv@workspace:."
   dependencies:
-    "@portfolio.md/builder": "npm:0.0.45"
+    "@portfolio.md/builder": "npm:0.0.46"
   languageName: unknown
   linkType: soft
 
@@ -1537,6 +1538,17 @@ __metadata:
   bin:
     image-size: bin/image-size.js
   checksum: 10c0/71b531ced2abef11e2a5ba77a533b9229aa10585d252154b039458265978172f890e82a210f5f4467bc7d8a5fe0a501251984a1a9caa66a1f65a6e8dcb136289
+  languageName: node
+  linkType: hard
+
+"image-size@npm:^1.1.1":
+  version: 1.1.1
+  resolution: "image-size@npm:1.1.1"
+  dependencies:
+    queue: "npm:6.0.2"
+  bin:
+    image-size: bin/image-size.js
+  checksum: 10c0/2660470096d12be82195f7e80fe03274689fbd14184afb78eaf66ade7cd06352518325814f88af4bde4b26647889fe49e573129f6e7ba8f5ff5b85cc7f559000
   languageName: node
   linkType: hard
 

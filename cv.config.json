@@ -15,8 +15,10 @@
   "pages": {
     "cv": {
       "file": "file:///content/cv.md",
-      "genPdf": true,
-      "genDoc": true,
+      "generate": {
+        "pdf": true,
+        "docx": true
+      },
       "menu": {
         "title": "Resume"
       }
