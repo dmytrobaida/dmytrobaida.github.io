@@ -23,32 +23,34 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 
 ### Work Experience
 
-`Feb 2022 - Present`
-**Metasvit** - The Netherlands
+**Metasvit**, The Netherlands, Feb 2022 - Present  
+Involved in different kind of projects in crypto. Also working with cloud infrastucture and crypto wallets
 
-- Involved in different kind of projects in crypto. Also working with cloud infrastucture and crypto wallets
+**Finturi**, The Netherlands, Feb 2019 - Feb 2022  
+Was part of a team developing website, api and mobile application for Finturi. This is startup based in the Netherlands that aims to solve cash flow problems of businesses
 
-`Feb 2019 - Feb 2022`
-**Finturi** - The Netherlands
+**Medipix**, The Netherlands, Feb 2020 - Dec 2021  
+Was part of a team developing website, api and mobile application for Medipix. This is startup based in the Netherlands which provided SaaS for health professionals
 
-- Was part of a team developing website, api and mobile application for Finturi. This is startup based in the Netherlands that aims to solve cash flow problems of businesses
+**ArDrive**, USA, Sep 2020 - Jan 2021  
+Was lead developer for desktop application of ArDrive. This is startup based in USA which provides permanent file storage
 
-`Aug 2018 - Oct 2019`
-**Levi9 Ukraine** - The Netherlands
+**CarNext**, The Netherlands, Jan 2019 - Oct 2019  
+Was part of a team developing website and api's for CarNext. This is website for selling refurbished cars in the Netherlands and Europe 
 
-- Was part of a team developing core systems and plugins for Exact Online. This is web application for small and medium size businesses which helps with accounting in the Netherlands
-- Was part of a team developing website and api's for CarNext. This is website for selling refurbished cars in the Netherlands and Europe 
+**Exact**, The Netherlands, Aug 2018 - Jan 2019  
+Was part of a team developing core systems and plugins for Exact Online. This is web application for small and medium size businesses which helps with accounting in the Netherlands
 
-`Sep 2017 - Aug 2018`
-**TSI** - Ukraine
-
-- Was part of a team developing CRM (Customer relationship management) system for biggest Ukrainian telecommunication provider - Ukrtelecom
+**TSI** - Ukraine, Sep 2017 - Aug 2018  
+Was part of a team developing CRM (Customer relationship management) system for biggest Ukrainian telecommunication provider - Ukrtelecom
 
 ### Education
 
-`2013 - 2018`
-**National Technical University of Ukraine 'Kyiv Polytechnic Institute**
-- Master's degree in Computer Science
+**Master's degree in Computer Science**, Graduation Year 2018  
+National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine
+
+**Bachelor's degree in Computer Science**, Graduation Year 2017  
+National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine
 
 ### Projects
 
