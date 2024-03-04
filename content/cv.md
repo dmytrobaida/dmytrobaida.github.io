@@ -15,11 +15,11 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 
 ### Skills
 
-* Programming languages: TypeScript, JavaScript
+* Programming languages: TypeScript, JavaScript, CSS
 * Frameworks: React, Next.js, Nest.js, React Native
 * Databases: PostgreSQL, MongoDB
 * Cloud: Amazon Web Services, Azure
-* Other: GraphQL, Docker, Serverless Architecture, CI/CD, Agile
+* Other: GraphQL, Docker, Serverless Architecture, CI/CD, Agile, Git
 
 ### Work Experience
 
@@ -39,27 +39,38 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 
 **Levi9/CarNext**, The Netherlands, Jan 2019 - Oct 2019  
 * Created several web components to improve code reusability and deployed it to common components library
-* Refactored 90% of micro service source code and covered it with unit tests
+* Refactored 90% of microservice source code and covered it with unit tests
 
 **Levi9/Exact**, The Netherlands, Aug 2018 - Jan 2019  
 * Implemented and covered with tests subsystem for creating reports for accountants
 
-**TSI/Ukrtelecom**, Ukraine, Sep 2017 - Aug 2018  
+**TSI/Ukrtelecom**,    Ukraine, Sep 2017 - Aug 2018  
 * Created utility program for emulating phone calls which simplified development of new features and testing for testing engineers
 
 ### Education
 
-**Master's degree in Computer Science**, Graduation Year 2018  
-National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine
+**Master's degree in Computer Science**
+* National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine, 2017 - 2018
+* GPA: 3.0/4.0
 
-**Bachelor's degree in Computer Science**, Graduation Year 2017  
-National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine
+**Bachelor's degree in Computer Science** 
+* National Technical University of Ukraine 'Kyiv Polytechnic Institute', Ukraine, 2013 - 2017
+* GPA: 3.67/4.0
 
 ### Projects
 
-* GPTCommit
-* Recursion Viewer
-* portfolio.md
+[**GPTCommit**](https://marketplace.visualstudio.com/items?itemName=DmytroBaida.gpt-commit)
+* Visual Studio Code extension for automatic commit message generation using GhatGPT
+* 6K+ installs on VS Code Marketplace
+* Technologies: TypeScript, VS Code Extension API, OpenAI API
+
+[**Recursion Viewer**](https://dmytrobaida.github.io/recursion-viewer)
+* Website and VS Code extension for visualizing recursion
+* Technologies: TypeScript, VS Code Extension API, React, Vite, NX Monorepo management tool
+
+[**portfolio.md**](https://portfolio-md.github.io)
+* Node.js library which simplifies resume and portfolio creating. Uses markdown as source for creating static pages
+* Technologies: TypeScript, React, Next.js, NX Monorepo management tool
 
 ### Awards, Accolades and Certifications
 

@@ -91,7 +91,7 @@ Accounting system for small and medium businesses in the Netherlands
 
 ### Technology stack
 
-- .NET Framework, Pure JavaScript
+- .NET Framework, JavaScript
 - Microsoft SQL Server
 
 ## Ukrtelecom CRM
@@ -100,7 +100,7 @@ CRM (customer relationship management) system for biggest Ukrainian telecom prov
 
 ### Technology stack
 
-- .NET Framework, Pure JavaScript
+- .NET Framework, JavaScript
 - Microsoft SQL Server
 
 <br/>
