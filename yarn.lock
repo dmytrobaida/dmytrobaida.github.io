@@ -336,9 +336,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@portfolio.md/builder@npm:0.0.46":
-  version: 0.0.46
-  resolution: "@portfolio.md/builder@npm:0.0.46"
+"@portfolio.md/builder@npm:0.0.49":
+  version: 0.0.49
+  resolution: "@portfolio.md/builder@npm:0.0.49"
   dependencies:
     "@next/third-parties": "npm:^14.1.1"
     "@portfolio.md/components": "npm:0.0.41"
@@ -354,9 +354,10 @@ __metadata:
     remark-gfm: "npm:^3.0.1"
     showdown: "npm:^2.1.0"
     tslib: "npm:^2.3.0"
+    typescript: "npm:~5.3.2"
   bin:
     portfolio-md: bin/portfolio.md.js
-  checksum: 10c0/dbd64cc6631aa0a4cb83c801078140c85be623a262a2a4a9d41cfb34de778c5375514dc82422e24888ba4a7000ef448ba60c1d0cd6d94a7cb2c7b3ceef183b12
+  checksum: 10c0/8fc9a01c488447ac0a636cfc4b18fc103c5a5e1829f0a99f10f13fef2c0e94a9cbaea7689c39ebbfdac9adf297c2c82b450b3834a388c0f6e17c22f5d1537c54
   languageName: node
   linkType: hard
 
@@ -1116,7 +1117,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cv@workspace:."
   dependencies:
-    "@portfolio.md/builder": "npm:0.0.46"
+    "@portfolio.md/builder": "npm:0.0.49"
   languageName: unknown
   linkType: soft
 
@@ -3290,6 +3291,26 @@ __metadata:
   version: 2.6.2
   resolution: "tslib@npm:2.6.2"
   checksum: 10c0/e03a8a4271152c8b26604ed45535954c0a45296e32445b4b87f8a5abdb2421f40b59b4ca437c4346af0f28179780d604094eb64546bee2019d903d01c6c19bdb
+  languageName: node
+  linkType: hard
+
+"typescript@npm:~5.3.2":
+  version: 5.3.3
+  resolution: "typescript@npm:5.3.3"
+  bin:
+    tsc: bin/tsc
+    tsserver: bin/tsserver
+  checksum: 10c0/e33cef99d82573624fc0f854a2980322714986bc35b9cb4d1ce736ed182aeab78e2cb32b385efa493b2a976ef52c53e20d6c6918312353a91850e2b76f1ea44f
+  languageName: node
+  linkType: hard
+
+"typescript@patch:typescript@npm%3A~5.3.2#optional!builtin<compat/typescript>":
+  version: 5.3.3
+  resolution: "typescript@patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"
+  bin:
+    tsc: bin/tsc
+    tsserver: bin/tsserver
+  checksum: 10c0/1d0a5f4ce496c42caa9a30e659c467c5686eae15d54b027ee7866744952547f1be1262f2d40de911618c242b510029d51d43ff605dba8fb740ec85ca2d3f9500
   languageName: node
   linkType: hard
 
