@@ -45,7 +45,7 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 * Implemented and covered with tests subsystem for creating reports for accountants
 
 **TSI/Ukrtelecom**,    Ukraine, Sep 2017 - Aug 2018  
-* Created utility program for emulating phone calls which simplified development of new features and testing for testing engineers
+* Created utility program for emulating phone calls which simplified development of new features and testing
 
 ### Education
 
@@ -60,8 +60,8 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 ### Projects
 
 [**GPTCommit**](https://marketplace.visualstudio.com/items?itemName=DmytroBaida.gpt-commit)
-* Visual Studio Code extension for automatic commit message generation using GhatGPT
-* 6K+ installs on VS Code Marketplace
+* Visual Studio Code extension for automatic commit message generation using ChatGPT
+* 6K+ installs on VS Code Marketplace, 26 Stars on GitHub
 * Technologies: TypeScript, VS Code Extension API, OpenAI API
 
 [**Recursion Viewer**](https://dmytrobaida.github.io/recursion-viewer)
