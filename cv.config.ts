@@ -11,11 +11,11 @@ export default {
   home: {
     title: 'Dmytro Baida',
     url: '/',
-    logoName: 'logo',
+    logo: 'logo',
   },
   pages: {
     cv: {
-      file: 'file:///content/cv.md',
+      file: 'content/cv.md',
       generate: {
         pdf: true,
         docx: true,
@@ -25,7 +25,7 @@ export default {
       },
     },
     projects: {
-      file: 'file:///content/projects.md',
+      file: 'content/projects.md',
       isMain: true,
     },
   },
@@ -46,7 +46,7 @@ export default {
     url: '/',
   },
   images: {
-    logo: 'file:///content/logo.jpeg',
+    logo: 'content/logo.jpeg',
   },
   analytics: {
     gTag: 'G-Z76X7VG7QN',
