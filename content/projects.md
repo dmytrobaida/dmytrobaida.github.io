@@ -134,6 +134,6 @@ A marketplace that will drive financial inclusion and make peer-to-peer exchange
 
 # Stats
 
-| GitHub                                                                                                                            | LeetCode                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| ![Dmytro Baida's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrobaida&show_icons=true&theme=transparent) | ![Dmytro Baida's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/dmytrobaida?theme=neutral) |
+| GitHub                                                                                                                                             | LeetCode                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![Dmytro Baida's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmytrobaida&show_icons=true&theme=transparent&hide_border=true) | ![Dmytro Baida's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/dmytrobaida?theme=neutral) |
