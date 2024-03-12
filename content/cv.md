@@ -16,35 +16,36 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 
 ### Skills
 
-- Programming languages: TypeScript, JavaScript, CSS
-- Frameworks: React, Next.js, Nest.js, React Native
-- Databases: PostgreSQL, MongoDB
-- Cloud: Amazon Web Services, Azure
-- Other: GraphQL, Docker, Serverless Architecture, CI/CD, Agile, Git
+- Programming languages: TypeScript, JavaScript, C#, SQL, CSS
+- Frameworks: React, Next.js, Nest.js, React Native, Prisma, .NET Core, TailwindCSS, Express.js, Pulumi
+- Databases: PostgreSQL, MongoDB, Redis, DynamoDB
+- Cloud: Amazon Web Services, Microsoft Azure, Firebase, Vercel, Netlify, Render.com
+- Other: REST, GraphQL, Docker, Serverless Architecture, CI/CD, Agile, Git, Redux, Mobx, Jest, TDD, CI/CD
 
 ### Work Experience
 
 **Metasvit**, The Netherlands, Feb 2022 - Present
 
 - Implemented automatic infrastructure deployment system using Pulumi to minimize human errors when creating resources on AWS
-- Created real-time Twitter bot to monitor blockchain and automatically create tweets with notifications
+- Created a real-time Twitter bot to monitor the blockchain and automatically create tweets with notifications
 
 **Finturi**, The Netherlands, Feb 2019 - Feb 2022
 
-- Implemented login through QR Code system which simplified login flow on Web page for users that already have mobile application
+- Implemented login through QR Code system which simplified login flow on Web page for users that already have a mobile application
 - Refactored mobile application source code and increased test coverage
 
 **Medipix**, The Netherlands, Feb 2020 - Dec 2021
 
-- Connected service for rendering ultrasound images into existing product which increased user experience
+- Connected service for rendering ultrasound images into existing products which increased user experience
+- Refactored API and updated all outdated dependencies
 
 **ArDrive**, USA, Sep 2020 - Jan 2021
 
-- Implemented desktop application from scratch using Electron
+- Developed desktop application from scratch using Electron which allowed a big segment of new users to use the application
 
 **Levi9/CarNext**, The Netherlands, Jan 2019 - Oct 2019
 
-- Created several web components to improve code reusability and deployed it to common components library
+- Created several web components to improve code reusability and deployed them to common components library
 - Refactored 90% of microservice source code and covered it with unit tests
 
 **Levi9/Exact**, The Netherlands, Aug 2018 - Jan 2019
@@ -53,7 +54,8 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 
 **TSI/Ukrtelecom**, Ukraine, Sep 2017 - Aug 2018
 
-- Created utility program for emulating phone calls which simplified development of new features and testing
+- Created a utility program for emulating phone calls which simplified the development of new features and testing
+- Optimized several SQL queries which increased speed of certain parts of application
 
 ### Education
 
@@ -72,21 +74,22 @@ Likes building scalable web infrastructure and making websites fast. Passionate 
 [**GPTCommit**](https://marketplace.visualstudio.com/items?itemName=DmytroBaida.gpt-commit)
 
 - Visual Studio Code extension for automatic commit message generation using ChatGPT
-- 6K+ installs on VS Code Marketplace, 26 Stars on GitHub
+- 6K+ installs on VS Code Marketplace, 26 stars on GitHub
 - Technologies: TypeScript, VS Code Extension API, OpenAI API
 
 [**Recursion Viewer**](https://dmytrobaida.github.io/recursion-viewer)
 
 - Website and VS Code extension for visualizing recursion
+- 4k+ unique users. 32 stars on GitHub
 - Technologies: TypeScript, VS Code Extension API, React, Vite, NX Monorepo management tool
 
 [**portfolio.md**](https://portfolio-md.github.io)
 
-- Node.js library which simplifies resume and portfolio creating. Uses markdown as source for creating static pages
+- Node.js library which simplifies resume and portfolio creation. Uses markdown as the source for creating static pages
 - Technologies: TypeScript, React, Next.js, NX Monorepo management tool
 
 ### Awards, Accolades and Certifications
 
 - 2021 | [Second place in Challenge Secret Networks](https://devpost.com/software/yatzee) | Cosmos HackAtom VI
-- 2019 | [MCSD: App Builder](https://www.credly.com/badges/f5539812-1f75-4b3d-bb16-c7f483f9b6b6/linked_in_profile)
-- 2019 | [MCSA: Web Applications](https://www.credly.com/badges/e3cb23d1-e248-4aa2-a4c7-a4ad6ecd07b5/linked_in_profile)
+- 2019 | [MCSD: App Builder](https://www.credly.com/badges/f5539812-1f75-4b3d-bb16-c7f483f9b6b6/linked_in_profile) | Microsoft Certification
+- 2019 | [MCSA: Web Applications](https://www.credly.com/badges/e3cb23d1-e248-4aa2-a4c7-a4ad6ecd07b5/linked_in_profile) | Microsoft Certification
